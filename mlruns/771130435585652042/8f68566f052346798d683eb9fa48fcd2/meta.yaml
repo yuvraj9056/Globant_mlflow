@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/771130435585652042/8f68566f052346798d683eb9fa48fcd2/artifacts
+end_time: 1717051971882
+entry_point_name: ''
+experiment_id: '771130435585652042'
+lifecycle_stage: active
+run_id: 8f68566f052346798d683eb9fa48fcd2
+run_name: sassy-shoat-390
+run_uuid: 8f68566f052346798d683eb9fa48fcd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717051969300
+status: 3
+tags: []
+user_id: ranay

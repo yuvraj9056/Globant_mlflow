@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/771130435585652042/d8cdd2389f324fddb85d2babed8448ec/artifacts
+end_time: 1717051928977
+entry_point_name: ''
+experiment_id: '771130435585652042'
+lifecycle_stage: active
+run_id: d8cdd2389f324fddb85d2babed8448ec
+run_name: mercurial-flea-435
+run_uuid: d8cdd2389f324fddb85d2babed8448ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717051926162
+status: 3
+tags: []
+user_id: ranay

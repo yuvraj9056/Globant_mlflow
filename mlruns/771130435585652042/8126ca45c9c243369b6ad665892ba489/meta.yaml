@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/771130435585652042/8126ca45c9c243369b6ad665892ba489/artifacts
+end_time: 1717051977880
+entry_point_name: ''
+experiment_id: '771130435585652042'
+lifecycle_stage: active
+run_id: 8126ca45c9c243369b6ad665892ba489
+run_name: enthused-quail-781
+run_uuid: 8126ca45c9c243369b6ad665892ba489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717051975025
+status: 3
+tags: []
+user_id: ranay

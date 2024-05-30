@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/771130435585652042/61c30c7255824298a5a853e82ca17e1c/artifacts
+end_time: 1717051985421
+entry_point_name: ''
+experiment_id: '771130435585652042'
+lifecycle_stage: active
+run_id: 61c30c7255824298a5a853e82ca17e1c
+run_name: amusing-lynx-227
+run_uuid: 61c30c7255824298a5a853e82ca17e1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717051983008
+status: 3
+tags: []
+user_id: ranay

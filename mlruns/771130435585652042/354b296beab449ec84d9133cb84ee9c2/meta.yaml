@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/771130435585652042/354b296beab449ec84d9133cb84ee9c2/artifacts
+end_time: 1717051937385
+entry_point_name: ''
+experiment_id: '771130435585652042'
+lifecycle_stage: active
+run_id: 354b296beab449ec84d9133cb84ee9c2
+run_name: bittersweet-bass-573
+run_uuid: 354b296beab449ec84d9133cb84ee9c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717051932994
+status: 3
+tags: []
+user_id: ranay

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/771130435585652042/1ff0b9f07de243a0ae67f06cd744c260/artifacts
+end_time: 1717051960535
+entry_point_name: ''
+experiment_id: '771130435585652042'
+lifecycle_stage: active
+run_id: 1ff0b9f07de243a0ae67f06cd744c260
+run_name: melodic-seal-714
+run_uuid: 1ff0b9f07de243a0ae67f06cd744c260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717051958201
+status: 3
+tags: []
+user_id: ranay

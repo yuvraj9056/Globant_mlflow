@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/771130435585652042/4d149de59c5b4c55ab28f9e10a15218a/artifacts
+end_time: 1717051942964
+entry_point_name: ''
+experiment_id: '771130435585652042'
+lifecycle_stage: active
+run_id: 4d149de59c5b4c55ab28f9e10a15218a
+run_name: monumental-boar-321
+run_uuid: 4d149de59c5b4c55ab28f9e10a15218a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717051940676
+status: 3
+tags: []
+user_id: ranay

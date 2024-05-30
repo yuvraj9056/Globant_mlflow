@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/771130435585652042/59ba819d460247129ff5eb49d48c241e/artifacts
+end_time: 1717052012541
+entry_point_name: ''
+experiment_id: '771130435585652042'
+lifecycle_stage: active
+run_id: 59ba819d460247129ff5eb49d48c241e
+run_name: thundering-grub-532
+run_uuid: 59ba819d460247129ff5eb49d48c241e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717052009196
+status: 3
+tags: []
+user_id: ranay

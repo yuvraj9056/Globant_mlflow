@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/771130435585652042/f74bc39927a947878fd14c6461a7e362/artifacts
+end_time: 1717051926152
+entry_point_name: ''
+experiment_id: '771130435585652042'
+lifecycle_stage: active
+run_id: f74bc39927a947878fd14c6461a7e362
+run_name: abrasive-snail-341
+run_uuid: f74bc39927a947878fd14c6461a7e362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717051923385
+status: 3
+tags: []
+user_id: ranay

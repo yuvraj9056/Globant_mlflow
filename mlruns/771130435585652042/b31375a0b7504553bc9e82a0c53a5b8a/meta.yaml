@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/771130435585652042/b31375a0b7504553bc9e82a0c53a5b8a/artifacts
+end_time: 1717051947794
+entry_point_name: ''
+experiment_id: '771130435585652042'
+lifecycle_stage: active
+run_id: b31375a0b7504553bc9e82a0c53a5b8a
+run_name: placid-bee-671
+run_uuid: b31375a0b7504553bc9e82a0c53a5b8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717051945470
+status: 3
+tags: []
+user_id: ranay
