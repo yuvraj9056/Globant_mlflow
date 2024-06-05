@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/37a81b05c5654dbf9d783d71c24749c7/artifacts
+end_time: 1717431231285
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 37a81b05c5654dbf9d783d71c24749c7
+run_name: enchanting-panda-643
+run_uuid: 37a81b05c5654dbf9d783d71c24749c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431229120
+status: 3
+tags: []
+user_id: ranay

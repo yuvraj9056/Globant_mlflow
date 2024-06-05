@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/4f7d2cd9c5644502a2ffc838afe4030c/artifacts
+end_time: 1717431170896
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 4f7d2cd9c5644502a2ffc838afe4030c
+run_name: efficient-cod-275
+run_uuid: 4f7d2cd9c5644502a2ffc838afe4030c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431168663
+status: 3
+tags: []
+user_id: ranay

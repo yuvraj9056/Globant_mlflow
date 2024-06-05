@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/49d9d7d45be34c7e8ae359b9899dff7b/artifacts
+end_time: 1717431197653
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 49d9d7d45be34c7e8ae359b9899dff7b
+run_name: gentle-perch-110
+run_uuid: 49d9d7d45be34c7e8ae359b9899dff7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431195408
+status: 3
+tags: []
+user_id: ranay

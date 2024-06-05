@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/2586a944b74e4e8fb3f4cb3a87700902/artifacts
+end_time: 1717431179649
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 2586a944b74e4e8fb3f4cb3a87700902
+run_name: melodic-jay-408
+run_uuid: 2586a944b74e4e8fb3f4cb3a87700902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431177504
+status: 3
+tags: []
+user_id: ranay

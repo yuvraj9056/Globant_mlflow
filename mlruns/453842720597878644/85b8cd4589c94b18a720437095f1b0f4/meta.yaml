@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/85b8cd4589c94b18a720437095f1b0f4/artifacts
+end_time: 1717431177495
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 85b8cd4589c94b18a720437095f1b0f4
+run_name: judicious-sheep-323
+run_uuid: 85b8cd4589c94b18a720437095f1b0f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431175279
+status: 3
+tags: []
+user_id: ranay

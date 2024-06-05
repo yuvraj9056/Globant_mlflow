@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/23eb5ab185f140918800c326977f9a6d/artifacts
+end_time: 1717431215453
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 23eb5ab185f140918800c326977f9a6d
+run_name: welcoming-toad-381
+run_uuid: 23eb5ab185f140918800c326977f9a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431213253
+status: 3
+tags: []
+user_id: ranay

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/6ed4b356573348da8a519535dac7120c/artifacts
+end_time: 1717431168654
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 6ed4b356573348da8a519535dac7120c
+run_name: rumbling-elk-344
+run_uuid: 6ed4b356573348da8a519535dac7120c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431166533
+status: 3
+tags: []
+user_id: ranay

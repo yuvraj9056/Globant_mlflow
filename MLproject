@@ -1,0 +1,26 @@
+#name
+#entry point
+#environment
+name:"SVM Project"
+
+
+python_env: env.yaml
+
+
+entry_points:
+  SVM:
+    command: " python lung_cancer_prediction.py --kernel={kernel} --degree={degree} --C={C}"
+    parameters:
+      kernel:
+        type: string
+        default: 
+      
+      degree:
+        type: float
+        default:
+
+      C:
+        type: float
+        default:
+
+      

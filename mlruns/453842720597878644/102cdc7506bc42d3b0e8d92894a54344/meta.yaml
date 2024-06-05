@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/102cdc7506bc42d3b0e8d92894a54344/artifacts
+end_time: 1717431186540
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 102cdc7506bc42d3b0e8d92894a54344
+run_name: calm-calf-234
+run_uuid: 102cdc7506bc42d3b0e8d92894a54344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431184168
+status: 3
+tags: []
+user_id: ranay

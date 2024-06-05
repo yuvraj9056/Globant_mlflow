@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/061803b455444c55b898f3948c59c568/artifacts
+end_time: 1717431240382
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 061803b455444c55b898f3948c59c568
+run_name: delightful-shark-48
+run_uuid: 061803b455444c55b898f3948c59c568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431238201
+status: 3
+tags: []
+user_id: ranay

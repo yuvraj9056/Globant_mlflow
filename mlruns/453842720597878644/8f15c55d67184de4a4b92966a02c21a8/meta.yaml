@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/8f15c55d67184de4a4b92966a02c21a8/artifacts
+end_time: 1717431141765
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 8f15c55d67184de4a4b92966a02c21a8
+run_name: suave-mole-868
+run_uuid: 8f15c55d67184de4a4b92966a02c21a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431127631
+status: 3
+tags: []
+user_id: ranay

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/8df59e93749649e4bda821969ae7ee2f/artifacts
+end_time: 1717431229111
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 8df59e93749649e4bda821969ae7ee2f
+run_name: burly-midge-64
+run_uuid: 8df59e93749649e4bda821969ae7ee2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431226807
+status: 3
+tags: []
+user_id: ranay

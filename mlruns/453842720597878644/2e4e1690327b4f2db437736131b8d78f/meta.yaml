@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/2e4e1690327b4f2db437736131b8d78f/artifacts
+end_time: 1717431166524
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 2e4e1690327b4f2db437736131b8d78f
+run_name: ambitious-roo-429
+run_uuid: 2e4e1690327b4f2db437736131b8d78f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431162777
+status: 3
+tags: []
+user_id: ranay

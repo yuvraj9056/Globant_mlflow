@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/1ef5b011d9b74d9788d5155f694384f5/artifacts
+end_time: 1717431202258
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 1ef5b011d9b74d9788d5155f694384f5
+run_name: skillful-carp-308
+run_uuid: 1ef5b011d9b74d9788d5155f694384f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431199914
+status: 3
+tags: []
+user_id: ranay

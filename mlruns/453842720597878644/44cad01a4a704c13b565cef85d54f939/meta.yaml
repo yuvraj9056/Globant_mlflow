@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/44cad01a4a704c13b565cef85d54f939/artifacts
+end_time: 1717431217767
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 44cad01a4a704c13b565cef85d54f939
+run_name: omniscient-fowl-754
+run_uuid: 44cad01a4a704c13b565cef85d54f939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431215463
+status: 3
+tags: []
+user_id: ranay

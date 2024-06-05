@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/00b5aea954c042ba98fc74b91bb9ef0f/artifacts
+end_time: 1717431184158
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 00b5aea954c042ba98fc74b91bb9ef0f
+run_name: nimble-vole-15
+run_uuid: 00b5aea954c042ba98fc74b91bb9ef0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431181820
+status: 3
+tags: []
+user_id: ranay

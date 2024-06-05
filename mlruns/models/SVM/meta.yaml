@@ -1,0 +1,6 @@
+aliases:
+  staging: '1'
+creation_timestamp: 1717432034444
+description: This is an SVM model trained on the Lung Cancer dataset.
+last_updated_timestamp: 1717432627208
+name: SVM

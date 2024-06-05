@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/307158ef358a48d4838876c8cd1066ff/artifacts
+end_time: 1717431199905
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 307158ef358a48d4838876c8cd1066ff
+run_name: kindly-rook-429
+run_uuid: 307158ef358a48d4838876c8cd1066ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431197662
+status: 3
+tags: []
+user_id: ranay

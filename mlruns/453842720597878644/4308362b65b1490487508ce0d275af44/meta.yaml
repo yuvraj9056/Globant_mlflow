@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/4308362b65b1490487508ce0d275af44/artifacts
+end_time: 1717431233604
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 4308362b65b1490487508ce0d275af44
+run_name: colorful-toad-217
+run_uuid: 4308362b65b1490487508ce0d275af44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431231295
+status: 3
+tags: []
+user_id: ranay

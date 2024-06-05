@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1717432034497
+current_stage: None
+description: ''
+last_updated_timestamp: 1717432034497
+name: SVM
+run_id: 6648b1609c3a4e1e9fcc1d9a7695d4d1
+run_link: ''
+source: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/6648b1609c3a4e1e9fcc1d9a7695d4d1/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/6648b1609c3a4e1e9fcc1d9a7695d4d1/artifacts/model
+user_id: null
+version: 1

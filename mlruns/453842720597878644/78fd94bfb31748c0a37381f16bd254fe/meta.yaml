@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/78fd94bfb31748c0a37381f16bd254fe/artifacts
+end_time: 1717431235860
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 78fd94bfb31748c0a37381f16bd254fe
+run_name: whimsical-mare-77
+run_uuid: 78fd94bfb31748c0a37381f16bd254fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431233613
+status: 3
+tags: []
+user_id: ranay

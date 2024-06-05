@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlflow/Globant_mlflow/mlruns/453842720597878644/13a6b553a8a141a0aa878b08fa59121f/artifacts
+end_time: 1717431210978
+entry_point_name: ''
+experiment_id: '453842720597878644'
+lifecycle_stage: active
+run_id: 13a6b553a8a141a0aa878b08fa59121f
+run_name: bemused-pug-803
+run_uuid: 13a6b553a8a141a0aa878b08fa59121f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717431208824
+status: 3
+tags: []
+user_id: ranay
